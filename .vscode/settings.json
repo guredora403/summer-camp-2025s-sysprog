@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "atomic": "c",
+        "fstream": "c",
+        "ostream": "c",
+        "sstream": "c",
+        "iosfwd": "c",
+        "istream": "c",
+        "limits": "c",
+        "stop_token": "c",
+        "streambuf": "c",
+        "ip.h": "c",
+        "in.h": "c"
+    }
+}
